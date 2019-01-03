@@ -10,7 +10,7 @@ public class MrMeeseeks { //Another character from Rick and Morty
 		int num2 = Integer.parseInt(sn);
 		int sum = num1 + num2;
 		
-		JOptionPane.showMessageDialog(null, "Wowee, the answer is " + sum, "the title",
+		JOptionPane.showMessageDialog(null, "Wowee, the answer is " + sum, "chief",
 				JOptionPane.PLAIN_MESSAGE);
 	}
 
