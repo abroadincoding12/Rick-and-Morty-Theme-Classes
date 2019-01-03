@@ -15,6 +15,6 @@ public class JerrySmith { //Jerry is the father of Morty and Summer.
 			}
 	
 			public void saying() {
-				System.out.println("Your kids names are " + getName());
+				System.out.println("Their kids names are " + getName());
 	}
 }
